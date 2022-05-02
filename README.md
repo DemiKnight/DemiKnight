@@ -1,14 +1,15 @@
 ### Hi there 👋
 
 <p align="left"> 
-  <img width="300" height="300" src="https://github-readme-stats.vercel.app/api?username=DemiKnight&count_private=true&show_icons=true&theme=dracula" alt="Github stats">
-  <img width="300" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemiKnight&theme=dracula" alt="Github languages">
+  <img width="450" height="450" src="https://github-readme-stats.vercel.app/api?username=DemiKnight&count_private=true&show_icons=true&theme=dracula" alt="Github stats">
+  <img width="450" height="450" src="https://wakatime.com/share/@dd388e5c-1ad5-4a64-9b06-832863e8fa5b/f9a46351-2465-4fe2-8fd7-5eddbf51b277.svg" alt="Language stats">
+  
 </p>
 
 
 
 <p align="center">
-  <img width="450" height="450" src="https://wakatime.com/share/@dd388e5c-1ad5-4a64-9b06-832863e8fa5b/f9a46351-2465-4fe2-8fd7-5eddbf51b277.svg" alt="Language stats">
+  
 </p>
 
 <!--
@@ -18,6 +19,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DemiKnight&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DemiKnight&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+<img width="300" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DemiKnight&theme=dracula" alt="Github languages">
 
 Here are some ideas to get you started:
 
