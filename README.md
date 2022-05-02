@@ -3,6 +3,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DemiKnight&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DemiKnight&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Languages](https://wakatime.com/share/@dd388e5c-1ad5-4a64-9b06-832863e8fa5b/f9a46351-2465-4fe2-8fd7-5eddbf51b277.svg)](https://wakatime.com/share/@dd388e5c-1ad5-4a64-9b06-832863e8fa5b)
 
 <!--
 **DemiKnight/DemiKnight** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
