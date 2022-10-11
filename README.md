@@ -1,8 +1,7 @@
 ### Hi there 👋
 
 <p align="left"> 
-  <img width="450" height="450" src="https://github-readme-stats.vercel.app/api?username=DemiKnight&count_private=true&show_icons=true&theme=dracula" alt="Github stats">
-  <img width="450" height="450" src="https://wakatime.com/share/@dd388e5c-1ad5-4a64-9b06-832863e8fa5b/a62d1bfd-2c84-4952-a5f4-1d244ead1ba0.svg" alt="Language stats">
+  <img width="100%" height="450" src="https://wakatime.com/share/@dd388e5c-1ad5-4a64-9b06-832863e8fa5b/a62d1bfd-2c84-4952-a5f4-1d244ead1ba0.svg" alt="Language stats">
   
 </p>
 
